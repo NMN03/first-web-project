@@ -1,0 +1,102 @@
+
+h1{
+  font-family: 'Bungee Spice', cursive;
+}
+h2{
+    font-family: 'Bungee Spice', cursive;
+}
+h3{
+  font-family: 'Bungee Spice', cursive;
+  font-size: 2.5rem;
+}
+p{
+  line-height: 2;
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+.Intro{
+   font-family: 'MonteCarlo', cursive;;
+   font-size: 4.5rem;
+}
+.name{
+  text-align: center;
+  background-color: #F07DEA;
+  padding: 15%;
+}
+.introduction{
+  background-color:#A460ED;
+  padding: 5% ;
+  color: white;
+  line-height: 2;
+  text-align: center;
+
+}
+.projects1{
+  background-color: #9FC9F3;
+  padding:5% 10%;
+  text-align: center;
+}
+.dog{
+  width: 75%;
+}
+.drums{
+  width:75%;
+  height: 100%;
+}
+.dice{
+  width: 90%;
+  height:100%;
+}
+.simon{
+  width:90%;
+  height: 100%;
+}
+.games{
+  background-color: #EEEEEE;
+  padding: 5%;
+  text-align: center;
+}
+#guitar{
+  background-color: #F07DEA;
+  padding: 5%;
+  text-align: center;
+
+}
+.contact{
+  background-color:#A460ED;
+  padding: 5%;
+  text-align: center;
+}
+.footer{
+  background-color:#9FC9F3;
+  padding: 1%;
+  text-align: center;
+
+}
+.web-dev-image{
+  width: 50%;
+}
+@media (max-width:1028px){
+  p{
+    font-size: 2.5rem;
+  }
+
+  .dog{
+    width:35%;
+    padding-bottom: 5%;
+  }
+  .drums{
+    width:50%;
+    height: 100%;
+  }
+  .dice{
+    width: 50%;
+    height:100%;
+    padding-bottom: 5%;
+  }
+  .simon{
+    width:50%;
+    height: 100%;
+  }
+
+}
